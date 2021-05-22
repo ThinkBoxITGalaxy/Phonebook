@@ -1,0 +1,9 @@
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\jhayr\source\repos\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
